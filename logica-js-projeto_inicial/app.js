@@ -116,7 +116,7 @@ if (averageGrade >= 7){
 let number2 = Math.random();
 console.log(number2);
 
-let number3 = parseInt(Math.random() * 10)+1;
+let number3 = parseInt(Math.random() * 100)+1;
 console.log(number3);
 
 let number4 = parseInt(Math.random() * 1000)+1;
